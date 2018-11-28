@@ -1,5 +1,7 @@
 README.MD
 
+Licença - Livre para instalar, distribuir e copiar, mas a autora original deve ser mencionada. 
+
 English - This module provide a new cart rule to give discount on choosen payment method in Magento 2. 
 
 Install
