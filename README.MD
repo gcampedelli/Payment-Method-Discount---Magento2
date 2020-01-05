@@ -1,5 +1,7 @@
 README.MD
 
+Módulo Magento 2 - adiciona opção para desconto com base no meio de pagamento nas regras do carrinho. 
+
 License - Free to install, distribute and copy, but the original author shall be mentioned.
 
 Licença - Livre para instalar, distribuir e copiar, mas a autora original deve ser mencionada. 
