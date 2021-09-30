@@ -1,4 +1,4 @@
-README.MD
+WARNING - BEFORE USING IT PLEASE UPGRADE CODE TO YOUR MAGENTO2 VERSION
 
 Módulo Magento 2 - adiciona opção para desconto com base no meio de pagamento nas regras do carrinho. 
 
